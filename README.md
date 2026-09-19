@@ -106,7 +106,7 @@ A user-centric bus reservation platform focused on intuitive navigation, route s
 
 <br>
 
-## 📊 GitHub Analytics
+## 📊 Coding Metrics
 
 <div align="center">
 
@@ -129,19 +129,75 @@ A user-centric bus reservation platform focused on intuitive navigation, route s
 
 <br>
 
-## 🐍 Contribution Snake
+## 🚀 Snapshot
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="25%" valign="top" align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PariMittal/PariMittal/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PariMittal/PariMittal/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/PariMittal/PariMittal/output/github-contribution-grid-snake.svg">
-</picture>
+🎓<br><b>Education</b><br><br>
+B.Tech CSE (AI)<br>
+Banasthali Vidyapith
 
-</div>
+</td>
+<td width="25%" valign="top" align="center">
 
-> ⚙️ This snake needs a one-time setup — see the note below.
+💼<br><b>Experience</b><br><br>
+Open Source Contributor<br>
+SheFi Scholar
+
+</td>
+<td width="25%" valign="top" align="center">
+
+🏆<br><b>Achievements</b><br><br>
+Hackathons<br>
+Startup Competitions<br>
+Innovation Events
+
+</td>
+<td width="25%" valign="top" align="center">
+
+🤖<br><b>Focus</b><br><br>
+AI<br>
+Cybersecurity<br>
+Web Development
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🌟 Beyond Tech
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**🎨 Creative**
+- Sketching
+- UI/UX Exploration
+- Visual Problem-Solving
+
+</td>
+<td width="33%" valign="top">
+
+**🚀 Builder**
+- Hackathons
+- Open Source
+- Product Development
+
+</td>
+<td width="33%" valign="top">
+
+**🌍 Learner**
+- DSA & Systems
+- Emerging Tech
+- Continuous Growth
+
+</td>
+</tr>
+</table>
 
 <br>
 
