@@ -1,86 +1,60 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/-PARI%20MITTAL-6C5CE7?style=for-the-badge&labelColor=6C5CE7" height="45"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97706,50:BE185D,100:6D28D9&height=180&section=header&text=Pari%20Mittal&fontSize=55&fontColor=eaeaea&fontAlignY=38&desc=CS-AI%20Undergraduate%20|%20Web%20Developer%20|%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<h3>Computer Science & AI Undergraduate · Banasthali Vidyapith</h3>
+<br>
 
-<p>
-<img src="https://img.shields.io/badge/DSA-6C5CE7?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Web%20Development-00B894?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Cybersecurity-E17055?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Open%20Source-0984E3?style=flat-square&logoColor=white" />
-</p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1200&color=8957E5&center=true&vCenter=true&width=560&lines=Artificial+Intelligence;Data+Structures+%26+Algorithms;Web+Development;Cybersecurity" />
 
-<a href="https://github.com/PariMittal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/pari-mittal-4aa595306/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:mittalpari5678@gmail.com"><img src="https://img.shields.io/badge/Email-6C5CE7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<br><br>
+
+![Education](https://img.shields.io/badge/🎓_BTech-CSE_(AI)-8957E5?style=for-the-badge&labelColor=363a4f)
+![Location](https://img.shields.io/badge/📍_India-Rajasthan-8957E5?style=for-the-badge&labelColor=363a4f)
+![Open To](https://img.shields.io/badge/🤝_Open_To-Internships_&_Projects-8957E5?style=for-the-badge&labelColor=363a4f)
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-PariMittal-8957E5?style=for-the-badge&logo=github&logoColor=white&labelColor=363a4f)](https://github.com/PariMittal)
+![Profile Views](https://komarev.com/ghpvc/?username=PariMittal&label=PROFILE+VIEWS&color=8957E5&style=for-the-badge&labelColor=363a4f)
+![Followers](https://img.shields.io/github/followers/PariMittal?label=FOLLOWERS&style=for-the-badge&color=8957E5&labelColor=363a4f)
 
 </div>
 
 <br>
 
-<img src="https://img.shields.io/badge/-%20-6C5CE7?style=flat-square" height="4" width="100%"/>
+---
 
-## 🎯 Profile
+## 👋 About Me
 
-Computer Science & AI undergraduate focused on building reliable software and understanding systems from the ground up — from algorithmic problem-solving to network-level security monitoring. Currently contributing to open-source projects and exploring decentralized finance through a Web3 apprenticeship.
+I'm a **Computer Science & Artificial Intelligence undergraduate** at **Banasthali Vidyapith**, with strong foundations in **Data Structures, Algorithms, DBMS and OOPs**.
 
-<br>
-
-## 🧩 Core Skills
-
-<table width="100%">
-<tr>
-<td width="20%"><b>🔤 Languages</b></td>
-<td width="80%">
-
-![C](https://img.shields.io/badge/C-6C5CE7?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-6C5CE7?style=flat-square&logo=cplusplus&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td><b>🌐 Web</b></td>
-<td>
-
-![HTML5](https://img.shields.io/badge/HTML5-00B894?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-00B894?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-00B894?style=flat-square&logo=javascript&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td><b>🗄️ Database</b></td>
-<td>
-
-![MySQL](https://img.shields.io/badge/MySQL-0984E3?style=flat-square&logo=mysql&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td><b>🛠️ Tooling</b></td>
-<td>
-
-![Git](https://img.shields.io/badge/Git-E17055?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-E17055?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-E17055?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-</td>
-</tr>
-</table>
+- 💻 Solved **100+ coding problems**
+- 🧠 Interested in **Data Structures & Algorithms**
+- 🌐 Exploring **Web Development**
+- 🔐 Interested in **Cybersecurity**
+- 🌱 Contributing to **Open Source**
+- 🏆 Active participant in **Hackathons & Tech Events**
 
 <br>
 
-## 🚀 Selected Work
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,mysql,git,github,vscode&theme=dark" />
+</p>
+
+<br>
+
+## 🚀 Featured Projects
 
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
 
 ### 🛡️ SentinalGuard
-<sub><b>Cybersecurity · Wazuh</b></sub>
+**Automated Cybersecurity Incident Detection**
 
-Automated incident detection system for real-time endpoint and network monitoring — flags brute-force attempts and malware, and opens incident cases automatically.
+A cybersecurity solution using **Wazuh** to monitor endpoints and networks in real time — detecting brute-force attacks, malware, and creating instant incident cases.
 
 🏅 `Top 10 — Hack Celestia`
 
@@ -88,9 +62,9 @@ Automated incident detection system for real-time endpoint and network monitorin
 <td width="33%" valign="top">
 
 ### 🐄 Gau Gyan
-<sub><b>Web App</b></sub>
+**Indian Livestock Identification System**
 
-Livestock identification platform for Indian farmers, combining image upload with live camera capture for on-the-spot identification.
+A web-based livestock identification system with image upload and live camera capture functionality for on-the-spot recognition.
 
 `HTML5` `CSS` `JavaScript`
 
@@ -98,9 +72,9 @@ Livestock identification platform for Indian farmers, combining image upload wit
 <td width="33%" valign="top">
 
 ### 🚌 Travel Trust
-<sub><b>Booking Platform</b></sub>
+**Bus Booking Website**
 
-Bus reservation platform built around clear navigation and responsive layout, from route search to booking confirmation.
+A user-centric bus reservation platform focused on intuitive navigation, route search, and responsive design.
 
 `HTML5` `CSS`
 
@@ -112,30 +86,14 @@ Bus reservation platform built around clear navigation and responsive layout, fr
 
 ## 💼 Experience
 
-<table width="100%">
-<tr>
-<td width="18%" valign="top"><img src="https://img.shields.io/badge/Jul%202025%20–%20Present-6C5CE7?style=flat-square" /></td>
-<td width="82%">
-
-**🌱 Open Source Contributor** — GirlScript Summer of Code
-Improving code quality and shipping features across community projects; collaborating with maintainers on issues and documentation.
-
-</td>
-</tr>
-<tr>
-<td valign="top"><img src="https://img.shields.io/badge/Jun%202025%20–%20Present-00B894?style=flat-square" /></td>
-<td>
-
-**💙 SheFi Scholar** — SheFi Apprenticeship
-Studying decentralized finance and blockchain infrastructure, with applied focus on the Web3 ecosystem.
-
-</td>
-</tr>
-</table>
+| Period | Role |
+|---|---|
+| `Jul 2025 – Present` | 🌱 **Open Source Contributor** — GirlScript Summer of Code |
+| `Jun 2025 – Present` | 💙 **SheFi Scholar** — SheFi Apprenticeship (DeFi & Web3) |
 
 <br>
 
-## 🏆 Recognition
+## 🏆 Achievements
 
 | Achievement | Detail |
 |---|---|
@@ -152,33 +110,34 @@ Studying decentralized finance and blockchain infrastructure, with applied focus
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PariMittal&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical&title_color=6C5CE7&icon_color=00B894&text_color=c9d1d9&bg_color=0d1117" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PariMittal&layout=compact&hide_border=true&theme=radical&title_color=6C5CE7&text_color=c9d1d9&bg_color=0d1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PariMittal&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark&title_color=8957E5&icon_color=8957E5&text_color=c9d1d9&bg_color=0d1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PariMittal&layout=compact&hide_border=true&theme=dark&title_color=8957E5&text_color=c9d1d9&bg_color=0d1117" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PariMittal&hide_border=true&background=0D1117&ring=6C5CE7&fire=E17055&currStreakLabel=00B894" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PariMittal&hide_border=true&background=0D1117&ring=8957E5&fire=8957E5&currStreakLabel=8957E5" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PariMittal&theme=react-dark&hide_border=true&bg_color=0D1117&color=6C5CE7&line=00B894&point=E17055&area=true&custom_title=Contribution%20Activity" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PariMittal&theme=react-dark&hide_border=true&bg_color=0D1117&color=8957E5&line=8957E5&point=eaeaea&area=true&custom_title=Contribution%20Activity" width="100%" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=PariMittal&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=PariMittal&theme=dracula&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" width="100%" />
 
 </div>
 
 <br>
 
-<img src="https://img.shields.io/badge/-%20-6C5CE7?style=flat-square" height="4" width="100%"/>
+---
 
 <div align="center">
 
 <sub>💬 Open to internships, research collaborations, and open-source work.</sub>
 <br><br>
-<a href="mailto:mittalpari5678@gmail.com"><img src="https://img.shields.io/badge/Email-6C5CE7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/pari-mittal-4aa595306/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/PariMittal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PariMittal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pari-mittal-4aa595306/)
+[![Gmail](https://img.shields.io/badge/Gmail-8957E5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mittalpari5678@gmail.com)
 
 </div>
