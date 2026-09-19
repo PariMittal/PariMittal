@@ -119,7 +119,7 @@ A user-centric bus reservation platform focused on intuitive navigation, route s
 
 <br><br>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=PariMittal&theme=react-dark&hide_border=true&bg_color=0D1117&color=8957E5&line=8957E5&point=eaeaea&area=true&custom_title=Contribution%20Activity" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PariMittal&theme=react-dark&hide_border=true&bg_color=0D1117&color=8957E5&line=8957E5&point=eaeaea&area=true&custom_title=Contribution%20Activity" width="100%" />
 
 <br><br>
 
