@@ -115,17 +115,33 @@ A user-centric bus reservation platform focused on intuitive navigation, route s
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PariMittal&hide_border=true&background=0D1117&ring=8957E5&fire=8957E5&currStreakLabel=8957E5" />
+<img src="https://streak-stats.demolab.com/?user=PariMittal&hide_border=true&background=0D1117&ring=8957E5&fire=8957E5&currStreakLabel=8957E5" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PariMittal&theme=react-dark&hide_border=true&bg_color=0D1117&color=8957E5&line=8957E5&point=eaeaea&area=true&custom_title=Contribution%20Activity" width="100%" />
+<img src="https://activity-graph.herokuapp.com/graph?username=PariMittal&theme=react-dark&hide_border=true&bg_color=0D1117&color=8957E5&line=8957E5&point=eaeaea&area=true&custom_title=Contribution%20Activity" width="100%" />
 
 <br><br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=PariMittal&theme=dracula&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" width="100%" />
 
 </div>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PariMittal/PariMittal/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PariMittal/PariMittal/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/PariMittal/PariMittal/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+> ⚙️ This snake needs a one-time setup — see the note below.
 
 <br>
 
