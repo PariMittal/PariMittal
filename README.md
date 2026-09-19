@@ -1,34 +1,293 @@
-<h1 align="center">Hi 👋, I'm Pari Mittal</h1>
-<h3 align="center">Computer Science & AI Undergraduate | Problem Solver |DSA • Web Development • Open Source</h3>
+````md
+<!-- ======================= HEADER ======================= -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parimittal&label=Profile%20views&color=0e75b6&style=flat" alt="parimittal" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parimittal" alt="parimittal" /></a> </p>
+# 👋 Hi, I'm Pari Mittal
 
-- 🔭 I’m currently working on **SentinalGuard**
+### 💻 CS-AI Undergraduate | Problem Solver | Web Development & Cybersecurity Enthusiast
 
-- 🌱 I’m currently learning **DSA, System Design & Core CS Concepts (DBMS,OS,OOPS)**
-
-- 👨‍💻 All of my projects are available at [GitHub Repositories](GitHub Repositories)
-
-- 💬 Ask me about **C++, DSA, Core Subjects(OS,DBMS,OOPS,CN)**
-
-- 📫 How to reach me **mittalpari5678@gmail.com**
-
-- ⚡ Fun fact **I love turning ideas into real-world projects**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pari-mittal-4aa595306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pari-mittal-4aa595306" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/parimittal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parimittal1" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mittalpamf6a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mittalpamf6a" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/PariMittal">
+    <img src="https://komarev.com/ghpvc/?username=PariMittal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/PariMittal?tab=followers">
+    <img src="https://img.shields.io/github/followers/PariMittal?label=Followers&style=flat" alt="Followers"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://www.linkedin.com/in/pari-mittal/">
+    <img src="https://img.shields.io/badge/LinkedIn-Pari%20Mittal-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:parimittal@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parimittal&show_icons=true&locale=en&layout=compact" alt="parimittal" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parimittal&show_icons=true&locale=en" alt="parimittal" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parimittal&" alt="parimittal" /></p>
+<!-- ======================= ABOUT ME ======================= -->
+
+## 👩‍💻 About Me
+
+```text
+🎓 B.Tech Computer Science – Artificial Intelligence
+🏫 Banasthali Vidyapith
+💡 Interested in AI, Web Development & Cybersecurity
+🧠 Practicing Data Structures & Algorithms
+🌱 Exploring Machine Learning and Open Source
+🚀 Love building practical projects and participating in hackathons
+````
+
+* 🔭 Currently working on **AI & Web Development projects**
+* 🌱 Currently learning **Machine Learning, DSA, SQL & Backend Development**
+* 💻 I enjoy turning ideas into working applications
+* 🤝 Open to **Open Source Contributions, Hackathons & Collaborations**
+* ⚡ Fun fact: **I love building things more than just talking about them!**
+
+---
+
+<!-- ======================= TECH STACK ======================= -->
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### 🗄️ Database & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+</p>
+
+### 🤖 AI / ML & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+---
+
+<!-- ======================= CURRENTLY LEARNING ======================= -->
+
+## 🌱 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-202020?style=for-the-badge&logo=leetcode&logoColor=orange"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-202020?style=for-the-badge&logo=python&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/SQL-202020?style=for-the-badge&logo=mysql&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Cybersecurity-202020?style=for-the-badge&logo=hackthebox&logoColor=green"/>
+
+</p>
+
+---
+
+<!-- ======================= FEATURED PROJECTS ======================= -->
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚌 Travel Trust
+
+A bus booking website designed to provide a simple and user-friendly travel booking experience.
+
+**Tech:** HTML • CSS
+
+<a href="https://github.com/PariMittal/TravelTrust">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🐄 Gau Gyan
+
+A responsive web platform focused on providing useful information related to cattle breeds and animal awareness.
+
+**Tech:** HTML • CSS
+
+<a href="https://github.com/PariMittal/Gaw_Gyan">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 3D Portfolio
+
+A creative portfolio website showcasing projects, skills and personal information.
+
+**Tech:** HTML • CSS • JavaScript
+
+<a href="https://github.com/PariMittal/3Dportfolio">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🤖 Smart Mail AI
+
+An intelligent email prioritization concept designed to organize and prioritize emails using AI.
+
+**Focus:** AI • Automation • Productivity
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ======================= GITHUB ANALYTICS ======================= -->
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PariMittal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PariMittal&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PariMittal&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+<!-- ======================= CONTRIBUTION GRAPH ======================= -->
+
+## 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PariMittal&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</p>
+
+---
+
+<!-- ======================= GITHUB TROPHIES ======================= -->
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PariMittal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" width="100%"/>
+
+</p>
+
+---
+
+<!-- ======================= GITHUB STATS ======================= -->
+
+## ⭐ GitHub Highlights
+
+<p align="center">
+
+<a href="https://github.com/PariMittal?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore%20My%20Repos-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/PariMittal?tab=stars">
+<img src="https://img.shields.io/badge/Stars-My%20Starred%20Projects-yellow?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/PariMittal?tab=followers">
+<img src="https://img.shields.io/badge/Followers-Connect%20With%20Me-blue?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<!-- ======================= GOALS ======================= -->
+
+## 🎯 2026 Goals
+
+* [ ] 🚀 Build more AI-powered projects
+* [ ] 🧠 Improve DSA & competitive programming
+* [ ] 🌐 Build full-stack applications
+* [ ] 🔐 Explore cybersecurity
+* [ ] 🌱 Contribute more to open source
+* [ ] 🏆 Participate in more hackathons
+* [ ] 💼 Prepare for software engineering internships
+
+---
+
+<!-- ======================= OPEN SOURCE ======================= -->
+
+## 🌍 Open Source & Community
+
+* 🌱 GirlScript Summer of Code Contributor
+* 👩‍💻 Campus Ambassador – GirlScript Summer of Code
+* 🏆 Participated in college & national-level hackathons
+* 💡 Interested in collaborative development and open-source projects
+
+---
+
+<!-- ======================= CONNECT ======================= -->
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/pari-mittal/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/PariMittal">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💫 "Build. Learn. Break. Fix. Repeat."
+
+⭐ **If you find my projects interesting, consider giving them a star!**
+
+</div>
+
+<!-- ======================= END ======================= -->
+
+```
+```
